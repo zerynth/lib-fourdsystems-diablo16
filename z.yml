@@ -1,0 +1,15 @@
+---
+description: 4DSystems Diablo16 support
+fullname: lib.fourdsystems.diablo16
+info:
+    chip_manufacturer: 4DSystems
+    chip_name: Diablo16
+    name: Zerynth 4DSystems Diablo16 Library
+    type: graphics
+keywords:
+- 4dsystems
+- diablo16
+- graphics
+- display
+title: 4DSystems Diablo16 Library
+...
